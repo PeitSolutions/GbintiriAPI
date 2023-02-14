@@ -1,0 +1,221 @@
+[
+	{
+		"name": "Glorious Chapel",
+		"location": "Gbintiri",
+		"district": "East Mamprusi",
+		"region": "North East",
+		"contactNumber": "0556228181"
+	},
+
+	{
+		"name": "Zion Chapel",
+		"location": "Yagbaa",
+		"district": "Karaga",
+		"region": "Northern",
+		"contactNumber": "0243834270"
+	},
+
+	{
+		"name": "Gulugu Branch",
+		"location": "Gulugu",
+		"district": "Karaga",
+		"region": "Northern",
+		"contactNumber": "0555322827"
+	},
+
+	{
+		"name": "Katani Branch",
+		"location": "Katani",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Yinyamba Branch",
+		"location": "Yinyamba",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Nanyel Branch",
+		"location": "Nanyel",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Naagel Branch",
+		"location": "Naagel",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Maania Branch",
+		"location": "Maania",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Kunduok Branch",
+		"location": "Kunduok",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Bundoli Branch",
+		"location": "Bundoli",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Nangoa Branch",
+		"location": "Nangoa",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Lakplik Branch",
+		"location": "Lakplik",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Piong Branch",
+		"location": "Piong",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Bariche Branch",
+		"location": "Bariche",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Katani Branch",
+		"location": "Katani",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Manya Branch",
+		"location": "Manya",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Kulgona Branch",
+		"location": "Kulgona",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Nakpanzong Branch",
+		"location": "Nakpanzong",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Bingbelik Branch",
+		"location": "Bingbelik",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Nasuani Branch",
+		"location": "Nasuani",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Zinye Branch",
+		"location": "Zinye",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Lantan Branch",
+		"location": "Lantan",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Kpassock Branch",
+		"location": "Kpassock",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Jagoo Branch",
+		"location": "Jagoo",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Yankazia Branch",
+		"location": "Yankazia",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Lanya Branch",
+		"location": "Lanya",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Sakpa Branch",
+		"location": "Sakpa",
+		"district": "Karaga",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Gungong Branch",
+		"location": "Gungong",
+		"district": "East Mamprusi",
+		"region": "North East"
+	},
+
+	{
+		"name": "Gorogu Branch",
+		"location": "Gorogu",
+		"district": "Gushegu",
+		"region": "Northern"
+	},
+
+	{
+		"name": "Majie Branch",
+		"location": "Majie",
+		"district": "Yonyoo",
+		"region": "North East"
+	},
+
+	{
+		"name": "Nanbortel Branch",
+		"location": "Nanbortel",
+		"district": "East Mamprusi",
+		"region": "North East"
+	}
+]
